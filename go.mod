@@ -1,4 +1,4 @@
-module chainbridge-utils
+module github.com/lambda-yu/chainbridge-utils
 
 go 1.18
 
