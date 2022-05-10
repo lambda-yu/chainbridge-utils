@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/ChainSafe/chainbridge-utils/msg"
+	"chainbridge-utils/msg"
 	log "github.com/ChainSafe/log15"
 )
 
